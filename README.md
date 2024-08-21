@@ -1,16 +1,24 @@
-## Hi there 👋
+<!-- ### Hi, I'm Ezequiel -->
 
-<!--
-**Ezequielzz/Ezequielzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Habilidades
+<div>
+<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>  &nbsp;
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> &nbsp;
+</div>
 
-Here are some ideas to get you started:
+### Frameworks
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) &nbsp;
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) &nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mais Habilidades
+![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
+![Google Cloud](https://img.shields.io/badge/google%20cloud-%230db7ed.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### Hobbies
+![Xbox](https://img.shields.io/badge/Xbox-FFFF?style=for-the-badge&logo=xbox&logoColor=white)
+
+### Contato:
+
+<div> 
+<a href="https://br.linkedin.com/in/ezequiel-samuel-681b32270?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">
+</a>   
