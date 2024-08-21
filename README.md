@@ -14,9 +14,6 @@
 ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
 ![Google Cloud](https://img.shields.io/badge/google%20cloud-%230db7ed.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-### Hobbies
-![Xbox](https://img.shields.io/badge/Xbox-FFFF?style=for-the-badge&logo=xbox&logoColor=white)
-
 ### Contato:
 
 <div> 
