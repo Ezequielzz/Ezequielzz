@@ -2,14 +2,13 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=header"/>
 
+<img src="/img/Code typing-cuate.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Code typing">
+
 ### Habilidades
 <div>
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>  &nbsp;
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> &nbsp;
 </div>
-
-<img src="/img/Code typing-cuate.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Code typing">
-
 
 ### Frameworks
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) &nbsp;
