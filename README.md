@@ -1,5 +1,7 @@
 <!-- ### Hi, I'm Ezequiel -->
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F2270C&height=100&section=header"/>
+
 ### Habilidades
 <div>
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>  &nbsp;
