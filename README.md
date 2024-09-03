@@ -1,8 +1,8 @@
 <!-- ### Hi, I'm Ezequiel -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F2270C&height=100&section=header"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=030BFC&height=100&section=header"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=741BF2&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001EFF&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7700FF&height=100&section=header"/>
 
 ### Habilidades
 <div>
