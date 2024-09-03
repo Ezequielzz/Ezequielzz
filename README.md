@@ -1,9 +1,6 @@
 <!-- ### Hi, I'm Ezequiel -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=header"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001EFF&height=100&section=header"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7700FF&height=100&section=header"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=header"/>
 
 ### Habilidades
 <div>
@@ -24,3 +21,5 @@
 <div> 
 <a href="https://br.linkedin.com/in/ezequiel-samuel-681b32270?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">
 </a>   
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer"/>
