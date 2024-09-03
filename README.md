@@ -1,6 +1,7 @@
 <!-- ### Hi, I'm Ezequiel -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F2270C&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=030BFC&height=100&section=header"/>
 
 ### Habilidades
 <div>
