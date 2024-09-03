@@ -8,6 +8,9 @@
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> &nbsp;
 </div>
 
+<img src="/img/Code typing-cuate.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Code typing">
+
+
 ### Frameworks
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) &nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) &nbsp;
